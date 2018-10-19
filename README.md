@@ -1,4 +1,4 @@
-[![GitHub version](https://badge.fury.io/gh/exceljava%2Fstrata-excel.svg)](http://badge.fury.io/gh/exceljava%2Fstrata-excel)
+[![GitHub version](https://badge.fury.io/gh/tonyroberts%2Fstrata-excel.svg)](http://badge.fury.io/gh/tonyroberts%2Fstrata-excel)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/k8dul9mkbyjura1a?svg=true)](https://ci.appveyor.com/project/TonyRoberts/strata-excel)
 
